@@ -2,8 +2,9 @@ title:              FernandoBDansi Blog
 email:              fernandobuenodansi@gmail.com
 description:        Um lugar para compartilhar conhecimentos!
 author:             Fernando Bueno Dansi
-baseurl:            "/startbootstrap-clean-blog-jekyll"
-url:                "https://fbdansi.dev.br"
+domain:             "blog.fbdansi.dev.br"
+baseurl:            "/blog"
+url:                "https://fernandobdansi.github.io"
 
 # Social Profiles
 twitter_username:   fernandobdansi
